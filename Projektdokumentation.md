@@ -28,7 +28,7 @@ Wir möchten etwas tun, was vielleicht nicht viele bei diesem Projekt machen, da
 | 7   |muss|Qualität|Als User möchte ich eine farblich schön gestaltete Webseite haben, damit ich sie bewundern kann.|
 | 8   |kann|Qualität|Als User möchte ich Links zu den Sprechern der Zitate haben, damit ich mehr Infos über diese bekommen kann.|
 | 9   |kann|Qualität|Als User möchte ich einen Darkmode haben, damit es angenehmer ist die Webseite zu benutzen.|
-
+| 10   |kann|Qualität|Als User möchte ich die Sprache ändern können, damit ich die Zitate verstehe.|
 
 
 ### 1.3 Testfälle
@@ -60,10 +60,18 @@ Skizze
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |25.05.23|Blentin           |Funktionierenden Link, um auf die Website zu kommen.              |45 min               |
+| 2.A |25.05.23       |Alle           |Zitate raussuchen              |45 min               |
+| 3.A |25.05.23       |Alle          |Orientierung             |45 min               |
+| 4.A |25.05.23       |Alle          |Bilder           |45 min               |
+| 5.A |25.05.23       |Alle          |Links            |45 min               |
+| 6.A |01.06.23       |Alle          |Animation           |45 min               |
+| 7.A |01.05.23       |Alle          |Design           |45 min               |
+| 8.A |01.05.23       |Alle          |Links von den Sprechern            |45 min               |
+| 9.A |01.05.23       |Alle          |Darkmode           |45 min               |
+| 10.A |08.05.23       |Alle          |Sprachen ändern können         |90 min               |
 
-Total: 
+Total: 495 min
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
