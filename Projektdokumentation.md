@@ -45,7 +45,8 @@
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+![Screenshot 2023-05-11 091238](https://github.com/Blentin05/LA_1600/assets/111045987/e524ba06-c7c6-4584-8040-73954e075b7e)
+
 
 ## 2 Planen
 
