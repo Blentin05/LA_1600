@@ -29,8 +29,10 @@
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  | User öffnet Website|Gibt Link ein|Startseite der Webseite|
+| 2.1  | User scrollt|Scrollen|1. Zitat erscheint mit Bild von Person im Hintergrund|
+| 3.1  | User scrollt nochmals|Scrollen|1. Zitat geht auf die Seite und 2. Zitat erscheint mit anderem Bild im Hintergrund|
+| 4.1  | User klickt auf Name | Klick| User wird auf eine Wikipedia-Seite geführt|
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
