@@ -31,7 +31,6 @@ Wir möchten etwas tun, was vielleicht nicht viele bei diesem Projekt machen, da
 | 10   |kann|Qualität|Als User möchte ich die Sprache ändern können, damit ich die Zitate verstehe.|
 
 
-### 1.3 Testfälle
 
 ### 1.3 Testfälle
 
