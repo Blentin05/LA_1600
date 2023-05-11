@@ -47,7 +47,7 @@ Wir möchten etwas tun, was vielleicht nicht viele bei diesem Projekt machen, da
 ![Screenshot 2023-05-11 091238](https://github.com/Blentin05/LA_1600/assets/111045987/e524ba06-c7c6-4584-8040-73954e075b7e)
 
 Skizze
-<img src="https://github.com/Blentin05/LA_1600/assets/111045656/960e21a2-61a3-4653-88de-798d0c4b25ac" width= "200"/>
+<img src="https://github.com/Blentin05/LA_1600/assets/111045656/960e21a2-61a3-4653-88de-798d0c4b25ac" width= "500"/>
 ![20230511_092852](https://github.com/Blentin05/LA_1600/assets/111045656/41ef7d41-7685-4d69-b3a6-2db463c3e21b)
 ![20230511_092919](https://github.com/Blentin05/LA_1600/assets/111045656/35b8b6e1-8328-41c8-8505-422eae9d4653)
 
