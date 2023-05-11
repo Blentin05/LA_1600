@@ -20,8 +20,15 @@
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1   |muss|Funktional|Als ein User möchte ich einen Funktionierenden Link habe, sodass ich auf die Webseite komme.|
+| 2   |muss|Qualität|Als User möchte ich viele Zitate haben, sodass ich diese Lesen kann.|
+| 3   |muss|Qualität|Als User möchte ich eine übersichtliche Webseite haben, damit ich mich auf ihr besser orientieren kann.|
+| 4   |muss|Qualität|Als User möchte ich Bilder von dem Sprecher des Zitates haben, sodass ich mir vorstellen kann wer das Zitat gesagt hat.|
+| 5   |muss|Funktional|Als User möchte ich dass die Links auf der Webseite funktionieren, sodass ich mehr Infos gewinnen kann.|
+| 6   |kann|Qualität|Als User möchte ich eine schöne Scrollanimation haben, damit die Webseite ansprechender ist.|
+| 7   |muss|Qualität|Als User möchte ich eine farblich schön gestaltete Webseite haben, damit ich sie bewundern kann.|
+| 8   |kann|Qualität|Als User möchte ich Links zu den Sprechern der Zitate haben, damit ich mehr Infos über diese bekommen kann.|
+| 9   |kann|Qualität|Als User möchte ich einen Darkmode haben, damit es angenehmer ist die Webseite zu benutzen.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
