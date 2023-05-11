@@ -11,9 +11,9 @@ Joël Haldimann, Carina Sutter, Blentin Tosuni
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wir wollen eine Website, von berühmten Zitaten erstellen.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Wir möchten etwas tun, was vielleicht nicht viele bei diesem Projekt machen, dann ist es besonders interessant und einzigartig. Wir wollen Menschen zum nachdenken bringen und Ihnen interessante Zitate bieten. Wir wollen auch ältere Zitate auf unserer Website haben, weil es manchmal nicht üblich ist, dass Sie auf einer Seite mit Zitaten sind.
 
 ### 1.2 User Stories
 
