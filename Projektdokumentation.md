@@ -46,6 +46,9 @@ Wir möchten etwas tun, was vielleicht nicht viele bei diesem Projekt machen, da
 
 ![Screenshot 2023-05-11 091238](https://github.com/Blentin05/LA_1600/assets/111045987/e524ba06-c7c6-4584-8040-73954e075b7e)
 
+Skizze
+![20230511_092844](https://github.com/Blentin05/LA_1600/assets/111045656/960e21a2-61a3-4653-88de-798d0c4b25ac)
+
 
 ## 2 Planen
 
