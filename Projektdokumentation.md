@@ -30,7 +30,7 @@
 | 8   |kann|Qualität|Als User möchte ich Links zu den Sprechern der Zitate haben, damit ich mehr Infos über diese bekommen kann.|
 | 9   |kann|Qualität|Als User möchte ich einen Darkmode haben, damit es angenehmer ist die Webseite zu benutzen.|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+
 
 ### 1.3 Testfälle
 
