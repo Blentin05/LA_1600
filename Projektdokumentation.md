@@ -1,4 +1,5 @@
-Lemon Joël Haldimann, Carina Sutter, Blentin Tosuni
+Lemon 
+Joël Haldimann, Carina Sutter, Blentin Tosuni
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
