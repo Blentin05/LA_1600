@@ -49,6 +49,8 @@ Wir möchten etwas tun, was vielleicht nicht viele bei diesem Projekt machen, da
 Skizze
 ![20230511_092844](https://github.com/Blentin05/LA_1600/assets/111045656/960e21a2-61a3-4653-88de-798d0c4b25ac)
 ![20230511_092852](https://github.com/Blentin05/LA_1600/assets/111045656/41ef7d41-7685-4d69-b3a6-2db463c3e21b)
+![20230511_092919](https://github.com/Blentin05/LA_1600/assets/111045656/35b8b6e1-8328-41c8-8505-422eae9d4653)
+
 
 
 ## 2 Planen
