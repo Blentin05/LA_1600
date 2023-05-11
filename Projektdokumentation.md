@@ -33,12 +33,15 @@ Wir möchten etwas tun, was vielleicht nicht viele bei diesem Projekt machen, da
 
 ### 1.3 Testfälle
 
+### 1.3 Testfälle
+
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | User öffnet Website|Gibt Link ein|Startseite der Webseite|
-| 2.1  | User scrollt|Scrollen|1. Zitat erscheint mit Bild von Person im Hintergrund|
-| 3.1  | User scrollt nochmals|Scrollen|1. Zitat geht auf die Seite und 2. Zitat erscheint mit anderem Bild im Hintergrund|
-| 4.1  | User klickt auf Name | Klick| User wird auf eine Wikipedia-Seite geführt|
+| 1.1  | User hat den Link der Webseite.| User klickt auf den Link.|Die Webseite öffnet sich.|
+| 2.5  | User hat die Webseite geöffnet.| User klickt auf einen Link.| Der Link öffnet eine weitere Webseite.|
+| 3.6  | User hat Webseite geöffnet. | User scrollt nach unten.|1. Zitat bewegt sich auf die Seite und 2. Zitat erscheint.|
+| 4.8  | User hat Webseite geöffnet. | User klickt Namen der Person| Die Wikipedia Seite der Person öffnet sich.|
+| 5.9  |User hat Webseite geöffnet. | User aktiviert Darkmode. |Die Webseite wird dunkel.|
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
