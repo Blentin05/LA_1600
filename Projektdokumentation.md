@@ -75,7 +75,7 @@ Total: 495 min
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns entschieden eine schöne Website zu machen von bekannten Zitaten. Die Seite sollte mehrere Optionen haben, wie z.B Sprache ändern. 
 
 ## 4 Realisieren
 
