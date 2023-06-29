@@ -42,12 +42,15 @@ https://github.com/Blentin05/LA_1600/assets/111045600/3ae2bed8-b9a5-472b-9261-da
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Der Code zeigt wie das Rechteck verschoben wird, man macht es mir der Margin, dabei ist "s1" das Rechteck und r1-r5 sind die Knöpfe der Navbar, welche man auch im Video sehen kann. Neben diesem Code braucht es noch einige kleine weitere Codes aber diese sind nicht Funktional sonder Visuel.
 
+Im Video sieht man wie das ganze Funktioniert, wenn man die Knöpfe drückt wird man zu einem anderen Bild verschoben.
 # Reflektion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
++Wir hatten gute Code Ansätze welche nützlich für unsere Webseite war
 
-👎 und etwas, was nicht gut lief.
+-Wir waren sehr unkoordiniert und so kam fast nichts zu stande.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: 
+
+Nächstes Mal sollten wir uns besser absprechen und zusammen arbeiten.
