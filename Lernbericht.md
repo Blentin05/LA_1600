@@ -37,12 +37,8 @@ Die Slideshow ist eigentlich ein sehr breites Rechteck welches via Knöpfe so ve
 ```
 
 
+https://github.com/Blentin05/LA_1600/assets/111045600/3ae2bed8-b9a5-472b-9261-da13bfe7c376
 
-
-
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
 
