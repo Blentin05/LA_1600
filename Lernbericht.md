@@ -3,7 +3,7 @@ Lemon, Joël Haldimann, Blentin Tosuni und Carina Sutter
 
 ## Einleitung
 
-Wir haben in unserem Projekt eine Webseite über Zitate programmiert.
+Wir haben in unserem Projekt eine Webseite über Zitate programmiert, welche man in einer Slideshow betrachten kann.
 
 ## Was habe ich gelernt?
 
