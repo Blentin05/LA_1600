@@ -1,5 +1,6 @@
 # Lern-Bericht
-Lemon, Joël Haldimann, Blentin Tosuni und Carina Sutter
+Gruppenname: Lemon
+Joël Haldimann, Blentin Tosuni und Carina Sutter
 
 ## Einleitung
 
