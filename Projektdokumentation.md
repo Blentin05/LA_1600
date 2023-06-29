@@ -97,4 +97,4 @@ Wir haben uns entschieden eine schöne Website zu machen von bekannten Zitaten. 
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/Blentin05/LA_1600/blob/main/Lernbericht.md
