@@ -12,6 +12,7 @@ Wir haben gelernt wie man mit HTML und CSS eine Slideshow auf einer Webseite pro
 ## Beschreibung
 
 Die Slideshow ist eigentlich ein sehr breites Rechteck welches via Knöpfe so verschoben wird, dass man nur ein Bild sieht. Dass kann man mit einer Nav-Bar machen, so wie wir es gemacht haben oder mit Knöpfen. Um nur das einte Bild zu sehen macht man wenn man z.B. 5 Bilder will das Rechteck 500% Breit und die Bilder auf diesen Rechteck je 20% Breit. Sodass wenn man zum z.B. zweiten Bild scrollt man nur dieses sieht und nicht ein anderes. Um das Bild zu verschieben braucht man wie schon erwähnt eine Navbar, bei dieser ist es so, dass wenn man auf die zweite von fünf Tasten drückt sich das Rchteck um 20% nach links. 
+
 ```html
 /*Code um das Rechteck zu verschieben*/
 
@@ -47,10 +48,10 @@ Der Code zeigt wie das Rechteck verschoben wird, man macht es mir der Margin, da
 Im Video sieht man wie das ganze Funktioniert, wenn man die Knöpfe drückt wird man zu einem anderen Bild verschoben.
 # Reflektion zum Arbeitsprozess
 
-+Wir hatten gute Code Ansätze welche nützlich für unsere Webseite war
++Wir hatten gute Code Ansätze welche nützlich für unsere Webseite war.
 
 -Wir waren sehr unkoordiniert und so kam fast nichts zu stande.
 
 **VBV**: 
 
-Nächstes Mal sollten wir uns besser absprechen und zusammen arbeiten.
+Nächstes Mal sollten wir uns besser absprechen und zusammen arbeiten und nicht jeder für sich selbst.
